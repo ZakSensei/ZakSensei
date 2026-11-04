@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cosmic-banner.png" alt="ZakSensei Cosmic Banner" width="100%">
+</p>
+
 Hi 👋 Im Zak!
 ==========================
 
