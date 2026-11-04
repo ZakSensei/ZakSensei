@@ -3,9 +3,7 @@
 <br/><br/>
 <h2>Beyond the Code</h2>
 <p>
-  Studied Computer Science yet there's still plenty I want to learn.
-  Im more of a 'getting to the bottom of a problems' person, even if it means spending
-  hours on something that should've taken five minutes.
+I studied Computer Science, yet there’s still plenty I want to learn. I’m the type who likes getting to the bottom of a problem, even if it means spending hours on something that should’ve taken five minutes.
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=AD9AFF&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Software+Developer;Curious+Mind.+Creative+Thinker.;Always+Learning.+Always+Building." alt="Typing Animation" />
 <br/>
